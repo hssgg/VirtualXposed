@@ -83,4 +83,4 @@ Credits
 -------
 
 1. [VirtualApp](https://github.com/asLody/VirtualApp)
-2. [Xposed](https://github.com/rovo89/Xposed)
+2. [Xposed](https://github.com/rovo89/Xposed)  
